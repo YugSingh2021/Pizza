@@ -1,0 +1,3 @@
+funtion getmenu(){
+    var htmldata=""
+}
